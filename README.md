@@ -6,7 +6,7 @@
 
 ## Documentation
 
-See [the AcheronDocs page](http://acheronproject.com/acheronLib/introduction.html) for the Acheron Library documentation.
+See [the AcheronDocs page](http://acheronproject.com/alexandria/alexandria/) for the Acheron Library documentation.
 
 ## Licensing
 
